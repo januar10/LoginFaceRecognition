@@ -1,0 +1,15 @@
+﻿ml<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FacialRecognitionLogin.Pages.Page2"
+             Title="Register" WidthRequest="20" BackgroundColor="White">
+    <StackLayout Spacing="20" Padding="40" VerticalOptions="Center">
+        <Image Source="bcyblue.png" />
+        <Entry Placeholder="Username" PlaceholderColor="Black"  TextColor="Black" Text="{Binding UserName}"></Entry>
+        <Entry Placeholder="Password" PlaceholderColor="Black" TextColor="Black" IsPassword="True" Text="{Binding Password}"></Entry>
+        <Entry Placeholder="Email" PlaceholderColor="Black"  TextColor="Black" Text="{Binding Email}"></Entry>
+        <Entry Placeholder="Phone Number" PlaceholderColor="Black" TextColor="Black" Text="{Binding PhoneNumber}"></Entry>
+        <Button x:Name="btnSelectPic" Text="Select picture" Clicked="btnSelectPic_Clicked" BackgroundColor="#3499EC" BorderRadius="20" TextColor="White" />
+        <Button Text="Register" Clicked="Save_Clicked" TextColor="White" BorderRadius="20" BackgroundColor="#3499EC"/>
+    </StackLayout>
+</ContentPage>

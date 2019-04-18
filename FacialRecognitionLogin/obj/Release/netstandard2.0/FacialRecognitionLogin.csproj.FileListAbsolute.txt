@@ -1,0 +1,10 @@
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\bin\Release\netstandard2.0\FacialRecognitionLogin.deps.json
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\bin\Release\netstandard2.0\FacialRecognitionLogin.dll
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\bin\Release\netstandard2.0\FacialRecognitionLogin.pdb
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\FacialRecognitionLogin.csprojAssemblyReference.cache
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\FacialRecognitionLogin.csproj.CoreCompileInputs.cache
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\FacialRecognitionLogin.AssemblyInfoInputs.cache
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\FacialRecognitionLogin.AssemblyInfo.cs
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\FacialRecognitionLogin.dll
+C:\Users\alkar\OneDrive\Documents\Jobs\FacialRecognitionLogin\FacialRecognitionLogin\obj\Release\netstandard2.0\FacialRecognitionLogin.pdb
